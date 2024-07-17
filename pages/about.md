@@ -4,6 +4,8 @@ title: "About Me"
 permalink: "/about/"
 description: "Behavioral researcher and data scientist with over 10 years of experience"
 image: "/assets/images/gen/content/Headshot.webp"
+gallery:
+  - image: "/assets/images/gen/content/Headshot.webp"
 ---
 
 # Education and Research Background
