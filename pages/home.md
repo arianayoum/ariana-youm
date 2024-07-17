@@ -4,7 +4,7 @@ permalink: "/"
 title: "Ariana Youm"
 description: "Cognitive Neuroscientist and Data Scientist"
 meta_description: ""
-meta_title: 
+meta_title: ""
 subscribe: false
 
 projects:
