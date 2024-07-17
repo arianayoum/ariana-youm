@@ -1,7 +1,6 @@
 ---
 layout: project-left
 title: "About Me"
-date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "Behavioral researcher and data scientist with over 10 years of experience"
 image: "/assets/images/gen/content/Headshot.webp"
