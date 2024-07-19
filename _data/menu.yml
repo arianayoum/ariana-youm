@@ -6,25 +6,17 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Project Layout 1"
-        icon: "/assets/images/icons/wireframe-7.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
+      - name: "Brain Imaging Data"
+        description: "Building a data pipeline from start to finish"
         url: /projects/project-1/
-      - name: "Project Layout 2"
-        icon: "/assets/images/icons/wireframe-5.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Right side layout"
+      - name: "Multidimensional Data"
+        description: "Reducing dimensionality of data with factor analyses"
         url: /projects/project-2/
-      - name: "Project Layout 3"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
+      - name: "Semantic Concept Clustering"
+        description: "Using k-means clustering to map semantic spaces"
         url: /projects/project-3/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
+      - name: "Machine Learning Techniques"
+        description: "Classification, Permutation Analysis, Clustering, and Neural Network Classifiers"
         url: /projects/project-4/
   - name: About
     url: /about/
