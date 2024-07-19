@@ -3,12 +3,10 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "Brain Imaging Data"
 description: "Building a Data Pipeline From Start to Finish"
 weight: 3
-thumbnail: "/assets/images/gen/projects/acetylcholine.jpg"
+thumbnail: "/assets/images/gen/projects/brain-activation.jpg"
 image: "/assets/images/gen/projects/acetylcholine.jpg"
 gallery:
-  - image: "/assets/images/gen/projects/acetylcholine.jpg"
-  - image: "/assets/images/gen/projects/brain-data.png"
-
+  - image: "/assets/images/gen/projects/brain-activation.jpg"
 ---
 
 For those unfamiliar to neuroimaging, neuroimaging data generates massive amounts of data per scan. It comes in different forms, including structural (anatomical) and functional images. It requires robust infrastructure for storage, retrieval, and management. Further, analyzing neuroimaging data requires sophisticated statistical and computational techniques to uncover meaningful insights. 
