@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: ""
+url: "www.arianayoum.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
