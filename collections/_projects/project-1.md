@@ -1,25 +1,18 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Water Works Revitalisation"
-description: "Breathing new life into old industrial estates"
-date: 2018-12-20
+title: "Brain Imaging Data"
+description: "Building a Data Pipeline From Start to Finish"
 weight: 3
-thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-2-1.webp"
-categories: ["Development"]
-client: "Brisbane City Council"
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/acetylcholine.jpg"
+image: "/assets/images/gen/projects/acetylcholine.jpg"
 gallery:
-  - image: "/assets/images/gen/projects/project-2-1.webp"
-  - image: "/assets/images/gen/projects/project-2-2.webp"
-  - image: "/assets/images/gen/projects/project-2-5.webp"
-  - image: "/assets/images/gen/projects/project-2-4.webp"
-  - image: "/assets/images/gen/projects/project-2-3.webp"
-  - image: "/assets/images/gen/projects/project-2-6.webp"
+  - image: "/assets/images/gen/projects/acetylcholine.jpg"
+  - image: "/assets/images/gen/projects/brain-data.png"
+
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+For those unfamiliar to neuroimaging, neuroimaging data generates massive amounts of data per scan. It comes in different forms, including structural (anatomical) and functional images. It requires robust infrastructure for storage, retrieval, and management. Further, analyzing neuroimaging data requires sophisticated statistical and computational techniques to uncover meaningful insights. 
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Efficient data management practices are crucial for handling neuroimaging data. Building a data pipeline from start to end is often required for neuroimaging data to ensure efficient, accurate, and reproducible analyses. Once data is acquired, the data must be structured in a standardized format for easy access and analysis. Version control is a part of this practice to track changes in data. The data is then preprocessed which involves quality control (checking data quality), normalization (aligning images to standardized anatomical space), smoothing (applying filters to reduce noise and improve signal-to-noise ratio), and so on. Following this is data analysis, visualization, interpretation, and reporting. An ongoing feature of this process is pipeline automation (using software and scripts to automate tasks) and assessing scalability to ensure the pipeline can handle increasing data volumes and complexity. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+For example scripts from this pipeline, please check out my [Github](https://github.com/arianayoum/neuroimaging-data-pipeline)
