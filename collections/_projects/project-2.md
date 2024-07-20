@@ -1,24 +1,19 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-03T10:20:00Z
+title: "Multidimensional Data"
+description: "Reducing Dimensionality in Data Using Factor Analyses"
 weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
-client: "Dubai Star"
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/factor-analysis.jpg"
+image: "/assets/images/gen/projects/factor-analysis.jpg"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
+  - image: "/assets/images/gen/projects/factor-analysis.jpg"
+  - image: "/assets/images/gen/projects/factor-analysis-2.png"
+    caption: "<strong>Above:</strong> Results from a Confirmatory Factor Analysis"
 gallery_limit: 2
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Factor analyses provide data scientists with powerful tools to unravel intricated relationships within data. 
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+They help simplify complex data by identifying core dimensions that explain variance among variables, which aids in theory development and refinement. They also facilitate the creation of valid and reliable measurements by ensuring that items reliably assess intended constructs. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+For example scripts, please check out my [Github](https://github.com/arianayoum/multidimensional-data)
