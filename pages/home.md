@@ -1,6 +1,5 @@
 ---
 layout: home
-permalink: "/"
 title: "Ariana Youm"
 description: "Cognitive Neuroscientist and Data Scientist"
 subscribe: false
