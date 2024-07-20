@@ -1,5 +1,5 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-top
 title: "Data Pipeline"
 description: "Building a Data Pipeline From Start to Finish"
 weight: 3
