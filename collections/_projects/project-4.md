@@ -3,7 +3,6 @@ layout: project-top
 title: "Machine Learning Techniques"
 description: "Classification, Permutation Analysis, Clustering, and Neural Network Classifiers"
 weight: 4
-permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/machine-learning.png"
 image: "/assets/images/gen/projects/machine-learning.png"
 gallery:
