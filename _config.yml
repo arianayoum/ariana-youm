@@ -19,7 +19,7 @@ paginate_path: "/blog/page/:num"
 collections_dir: collections
 collections:
   projects:
-    output: false
+    output: true
     permalink: /:collection/:path/
   posts:
     output: false
