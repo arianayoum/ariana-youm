@@ -3,10 +3,10 @@ layout: project-right
 title: "Multidimensional Data"
 description: "Reducing Dimensionality in Data Using Factor Analyses"
 weight: 1
-thumbnail: "/assets/images/gen/projects/factor-analysis.jpg"
-image: "/assets/images/gen/projects/factor-analysis.jpg"
+thumbnail: "/assets/images/gen/projects/factor-analysis.png"
+image: "/assets/images/gen/projects/factor-analysis.png"
 gallery:
-  - image: "/assets/images/gen/projects/factor-analysis.jpg"
+  - image: "/assets/images/gen/projects/factor-analysis.png"
   - image: "/assets/images/gen/projects/factor-analysis-2.png"
     caption: "<strong>Above:</strong> Results from a Confirmatory Factor Analysis"
 gallery_limit: 2
