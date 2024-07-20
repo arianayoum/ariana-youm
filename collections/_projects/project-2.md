@@ -14,6 +14,6 @@ gallery_limit: 2
 
 Factor analyses provide data scientists with powerful tools to unravel intricated relationships within data. 
 
-They help simplify complex data by identifying core dimensions that explain variance among variables, which aids in theory development and refinement. They also facilitate the creation of valid and reliable measurements by ensuring that items reliably assess intended constructs. 
+Understanding factor analyses is crucial. They help simplify complex data by identifying core dimensions that explain variance among variables, which aids in theory development and refinement. They also facilitate the creation of valid and reliable measurements by ensuring that items reliably assess intended constructs. 
 
 For example scripts, please check out my [Github](https://github.com/arianayoum/multidimensional-data)
