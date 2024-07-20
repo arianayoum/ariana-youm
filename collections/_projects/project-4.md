@@ -1,23 +1,30 @@
 ---
 layout: project-top
-title: "Subway"
-description: "An open source machine learning library written in Python"
-date: 2018-12-20
+title: "Machine Learning Techniques"
+description: "Classification, Permutation Analysis, Clustering, and Neural Network Classifiers"
 weight: 4
 permalink: /projects/project-4
-thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
-image: "/assets/images/gen/projects/project-4-1.webp"
-client: "RGA Agency"
-categories: ["Development"]
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/machine-learning.png"
+image: "/assets/images/gen/projects/machine-learning.png"
 gallery:
-  - image: "/assets/images/gen/projects/project-4-1.webp"
-  - image: "/assets/images/gen/projects/project-4-4.webp"
-  - image: "/assets/images/gen/projects/project-4-7.webp"
+  - image: "/assets/images/gen/projects/machine-learning.png"
+  - image: "/assets/images/gen/projects/classifiers.jpg"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Machine learning techniques encompass a diverse array of methodologies that revolutionize data analysis and decision-making processes. 
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+## Classification algorithms
+Assign data points to predefined categories. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+## Permutation analysis 
+Evaluates relationships between variables by systematically reshuffling data, uncovering significant patterns. 
+
+## Clustering 
+Groups similar data points into clusters, revealing natural structures within complex datasets. 
+
+## Neural network classifiers 
+Mimic the human brain's interconnected neurons, enabling intricate pattern recognition tasks from image classification to natural language processing. 
+
+Together, these techniques empower modern systems to extract insights and make predictions from vast and varied datasets.
+
+For example scripts, please check out my [Github](https://github.com/arianayoum/machine-learning-techniques)
