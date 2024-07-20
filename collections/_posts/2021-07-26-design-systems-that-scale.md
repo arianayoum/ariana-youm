@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: project-top
 title: "2023 Conference"
 description: Poster for the Context and Episodic Memory Symposium, 2023
 thumbnail: "/assets/images/gen/AY-CEMS-2023.png"
 image: "/assets/images/gen/AY-CEMS-2023.png"
+gallery:
+  - image: "/assets/images/gen/AY-CEMS-2023.png"
 ---
