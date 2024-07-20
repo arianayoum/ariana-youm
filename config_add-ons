@@ -1,3 +1,29 @@
+# Pages
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      weight: 999
+  - scope:
+      path: "images"
+    values:
+      image: true
+  - scope:
+      path: "categories"
+    values:
+      permalink: /category/:basename/
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
+
 newsletter:
   mailchimp:
     form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
