@@ -19,7 +19,7 @@ paginate_path: "/blog/page/:num"
 collections_dir: collections
 collections:
   projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
   posts:
     output: false
@@ -33,23 +33,9 @@ defaults:
     values:
       layout: project
   - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      weight: 999
-  - scope:
       path: "images"
     values:
       image: true
-  - scope:
-      path: "categories"
-    values:
-      permalink: /category/:basename/
-  - scope:
-      path: "pages"
-    values:
-      permalink: /:basename/
 
 # SCSS
 sass:
@@ -152,11 +138,6 @@ comments:
     enabled: true # you must have a commento account and be on the correct domain. does not work locally.
   disqus:
     shortname: "" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
-
-newsletter:
-  mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
-    form_title: "Let's keep in touch"
 
 contact_form: 
   use_netlify_form: false
