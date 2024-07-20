@@ -33,9 +33,24 @@ defaults:
     values:
       layout: project
   - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      weight: 999
+  - scope:
       path: "images"
     values:
       image: true
+  - scope:
+      path: "categories"
+    values:
+      permalink: /category/:basename/
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
+
 
 # SCSS
 sass:
