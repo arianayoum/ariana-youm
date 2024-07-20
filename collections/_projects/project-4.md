@@ -7,7 +7,7 @@ thumbnail: "/assets/images/gen/projects/machine-learning.png"
 image: "/assets/images/gen/projects/machine-learning.png"
 gallery:
   - image: "/assets/images/gen/projects/machine-learning.png"
-  - image: "/assets/images/gen/projects/classifiers.jpg"
+  - image: "/assets/images/gen/projects/classifiers.png"
 ---
 
 Machine learning techniques encompass a diverse array of methodologies that revolutionize data analysis and decision-making processes. 
