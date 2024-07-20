@@ -2,11 +2,12 @@
 layout: project-top
 title: "Data Pipeline"
 description: "Building a Data Pipeline From Start to Finish"
-weight: 3
+weight: 4
 thumbnail: "/assets/images/gen/projects/data-pipeline.png"
 image: "/assets/images/gen/projects/data-pipeline.png"
 gallery:
   - image: "/assets/images/gen/projects/data-pipeline.png"
+  - image: "/assets/images/gen/projects/data-pipeline-2.png"
 ---
 
 Efficient data management practices are crucial for handling neuroimaging data. Building a data pipeline from start to end is often required for neuroimaging data to ensure efficient, accurate, and reproducible analyses. 
