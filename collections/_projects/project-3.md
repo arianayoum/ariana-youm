@@ -1,22 +1,17 @@
 ---
 layout: project-left
-title: "Cubist Urban Home"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2018-12-20
+title: "Semantic Concept Clustering"
+description: "Using k-means Clustering to Map Semantic Spaces"
 weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
-categories: ["Development"]
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/word-clustering.png"
+image: "/assets/images/gen/projects/word-clustering.png"
 gallery:
-  - image: "/assets/images/gen/projects/project-3-1.webp"
-  - image: "/assets/images/gen/projects/project-3-4.webp"
-  - image: "/assets/images/gen/projects/project-3-7.webp"
+  - image: "/assets/images/gen/projects/word-clustering.png"
+  - image: "/assets/images/gen/projects/Tree_dendrogram_and_clustered_heat_map.png"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+K-means clustering enables us to uncover underlying structures and associations, facilitating deeper insights and more efficient data processing.
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+In the context of semantic spaces, where concepts are represented as vectors in high-dimensional space, k-means clustering can effectively group related concepts together. By analyzing the proximity of vectors, k-means identifies clusters of words or concepts that share similar semantic meanings. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+For example scripts, please check out my [Github](https://github.com/arianayoum/semantic-similarity-clustering)
