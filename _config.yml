@@ -175,10 +175,10 @@ footer:
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: false
-  enable_menu_footer_secondary: false
+  enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Our Projects"
-  footer_secondary_menu_title: "Company"
+  footer_secondary_menu_title: "Copyright Ariana Youm 2024"
   footer_tertiary_menu_title: "Other"
 
 bottom:
