@@ -6,7 +6,7 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Brain Imaging Data"
+      - name: "Data Pipeline"
         description: "Building a data pipeline from start to finish"
         url: /projects/project-1/
       - name: "Multidimensional Data"
@@ -21,6 +21,3 @@ main:
   - name: About
     url: /about/
     weight: 3
-  - name: Contact
-    url: /contact/
-    weight: 4
